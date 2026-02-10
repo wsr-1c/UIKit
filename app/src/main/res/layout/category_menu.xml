@@ -20,7 +20,6 @@
                 android:id="@+id/button2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/rounded"
                 android:backgroundTint="@color/accent"
                 android:text="Популярные"
                 android:layout_marginRight="10dp"/>
@@ -29,7 +28,7 @@
                 android:id="@+id/button3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/rounded"
+                android:textColor="@color/descripton"
                 android:backgroundTint="@color/input_bg"
                 android:text="Женщинам"
                 android:layout_marginRight="10dp"/>
@@ -38,7 +37,7 @@
                 android:id="@+id/button3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/rounded"
+                android:textColor="@color/descripton"
                 android:backgroundTint="@color/input_bg"
                 android:text="Мужчинам"
                 android:layout_marginRight="10dp"
@@ -48,7 +47,7 @@
                 android:id="@+id/button3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/rounded"
+                android:textColor="@color/descripton"
                 android:backgroundTint="@color/input_bg"
                 android:text="Детям"
                 android:layout_marginRight="10dp"/>
@@ -57,7 +56,7 @@
                 android:id="@+id/button3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/rounded"
+                android:textColor="@color/descripton"
                 android:backgroundTint="@color/input_bg"
                 android:text="Аксессуары"
                 android:layout_marginRight="10dp"/>
